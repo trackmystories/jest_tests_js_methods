@@ -44,3 +44,5 @@ Jest : Unit tests for the following JS methods:
 ##### Array.prototype.filter()
 
 ##### Array.prototype.fill()
+
+##### Array.prototype.flat()
