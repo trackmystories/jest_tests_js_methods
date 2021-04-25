@@ -54,3 +54,5 @@ Jest : Unit tests for the following JS methods:
 ##### Array.prototype.every()
 
 ##### Math.random()
+
+##### Math.PI

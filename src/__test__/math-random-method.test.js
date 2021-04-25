@@ -9,6 +9,6 @@ describe("Math.random()", () => {
   });
 
   test("expected output: 0, 1 or 2", () => {
-    expect(getRandomInt(3)).toBeGreaterThanOrEqual(2);
+    expect(getRandomInt(3)).toBeLessThanOrEqual(2);
   });
 });
