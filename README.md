@@ -56,3 +56,9 @@ Jest : Unit tests for the following JS methods:
 ##### Math.random()
 
 ##### Math.PI
+
+##### Math.E
+
+##### Math.abs()
+
+##### Math.cos()

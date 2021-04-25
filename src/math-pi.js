@@ -9,7 +9,12 @@ function calculateCircumference_2(radius) {
   return Math.PI * (radius + radius);
 }
 
+function valueOfPI(pi) {
+  return pi;
+}
+
 module.exports = {
   calculateCircumference,
   calculateCircumference_2,
+  valueOfPI,
 };
