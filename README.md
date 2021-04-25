@@ -64,3 +64,5 @@ Jest : Unit tests for the following JS methods:
 ##### Math.abs()
 
 ##### Math.cos()
+
+##### Math.log10()
