@@ -36,3 +36,5 @@ Jest : Unit tests for the following JS methods:
 ##### Function.prototype.bind()
 
 ##### Array.prototype.join()
+
+##### Array.prototype.find()
