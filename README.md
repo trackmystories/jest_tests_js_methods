@@ -48,3 +48,9 @@ Jest : Unit tests for the following JS methods:
 ##### Array.prototype.flat()
 
 ##### Array.prototype.unshift()
+
+##### Array.prototype.shift()
+
+##### Array.prototype.every()
+
+##### Math.random()
