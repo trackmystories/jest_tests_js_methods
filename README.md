@@ -38,3 +38,5 @@ Jest : Unit tests for the following JS methods:
 ##### Array.prototype.join()
 
 ##### Array.prototype.find()
+
+##### Array.prototype.filter()
