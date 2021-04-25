@@ -19,6 +19,8 @@
 
 ```
 
+<img src="./assets/screen.png" width="750" alt="./assets/screen.png">
+
 Jest : Unit tests for the following JS methods:
 
 ##### Array.prototype.map()
