@@ -19,11 +19,10 @@
 
 ```
 
-Test the following JS methods:
-• Array.prototype.map();
-• Array.prototype.push();
-• Array.prototype.forEach();
-• Function.prototype.call()
-• Function.prototype.apply()
-• Object.prototype.toString()
-# jest_tests_js_methods
+Jest : Unit tests for the following JS methods:
+**_Array.prototype.map()_**
+**_Array.prototype.push()_**
+**_Array.prototype.forEach()_**
+**_Function.prototype.call()_**
+**_Function.prototype.apply()_**
+**_Object.prototype.toString()_**
