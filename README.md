@@ -42,3 +42,5 @@ Jest : Unit tests for the following JS methods:
 ##### Array.prototype.findIndex()
 
 ##### Array.prototype.filter()
+
+##### Array.prototype.fill()
