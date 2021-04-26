@@ -74,3 +74,5 @@ Jest : Unit tests for the following JS methods:
 ##### Math.SQRT1_2
 
 ##### Math.acos()
+
+##### Math.log10()
