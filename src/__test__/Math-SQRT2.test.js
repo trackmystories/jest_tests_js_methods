@@ -1,7 +1,7 @@
 // Math.SQRT2
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/SQRT2
 
-const getRoot2 = require("../Math-SQRT2");
+const getRoot2 = require("../math-SQRT2");
 
 describe("Math.SQRT2", () => {
   test("the square root of 2, approximately ", () => {
