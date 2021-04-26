@@ -1,13 +1,13 @@
-# TESTS FOR JAVASCRIPT METHODS WITH JEST
+#### UNIT TESTS WITH JEST
 
-##### set up
+set up
 
 ```
  npm install
 
 ```
 
-##### run tests
+run tests
 
 ```
 
@@ -23,74 +23,68 @@
 
 Jest : Unit tests for the following JS methods:
 
-**_./Object.prototype_**
+**./Object.prototype**
 
-##### Object.prototype.toString()
+Object.prototype.toString()
 
-**_./Function.prototype_**
+**./Function.prototype**
 
-##### Function.prototype.call()
+Function.prototype.call()
 
-##### Function.prototype.apply()
+Function.prototype.apply()
 
-##### Function.prototype.bind()
+Function.prototype.bind()
 
-**_./Array.prototype_**
+**./Array.prototype**
 
-##### Array.prototype.join()
+Array.prototype.join()
 
-##### Array.prototype.find()
+Array.prototype.find()
 
-##### Array.prototype.findIndex()
+Array.prototype.findIndex()
 
-##### Array.prototype.filter()
+Array.prototype.filter()
 
-##### Array.prototype.fill()
+Array.prototype.fill()
 
-##### Array.prototype.flat()
+Array.prototype.flat()
 
-##### Array.prototype.unshift()
+Array.prototype.unshift()
 
-##### Array.prototype.shift()
+Array.prototype.shift()
 
-##### Array.prototype.every()
+Array.prototype.every()
 
-##### Array.prototype.map()
+Array.prototype.map()
 
-##### Array.prototype.push()
+Array.prototype.push()
 
-##### Array.prototype.forEach()
+Array.prototype.forEach()
 
-**_./Math_**
+**./Math**
 
-**_./Math/StaticMethods_**
+Math.random()
 
-##### Math.random()
+Math.PI
 
-##### Math.abs()
+Math.E
 
-##### Math.cos()
+Math.abs()
 
-##### Math.acos()
+Math.cos()
 
-##### Math.log10()
+Math.LN2
 
-**_./Math/StaticProperties_**
+Math.LOG2E
 
-##### Math.PI
+Math.LOG10E
 
-##### Math.E
+Math.SQRT1_2
 
-##### Math.LN2
+Math.acos()
 
-##### Math.LOG2E
+Math.log10()
 
-##### Math.LOG10E
+**./Math./examples**
 
-##### Math.SQRT1_2
-
-##### Math.SQRT12
-
-**_./Math./examples_**
-
-##### Degree To Radians
+Degree To Radians
