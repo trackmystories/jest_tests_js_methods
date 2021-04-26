@@ -23,19 +23,19 @@
 
 Jest : Unit tests for the following JS methods:
 
-##### Array.prototype.map()
+### ./Object.prototype
 
-##### Array.prototype.push()
+##### Object.prototype.toString()
 
-##### Array.prototype.forEach()
+### ./Function.prototype
 
 ##### Function.prototype.call()
 
 ##### Function.prototype.apply()
 
-##### Object.prototype.toString()
-
 ##### Function.prototype.bind()
+
+### ./Array.prototype
 
 ##### Array.prototype.join()
 
@@ -54,6 +54,14 @@ Jest : Unit tests for the following JS methods:
 ##### Array.prototype.shift()
 
 ##### Array.prototype.every()
+
+##### Array.prototype.map()
+
+##### Array.prototype.push()
+
+##### Array.prototype.forEach()
+
+### ./Math
 
 ##### Math.random()
 
@@ -76,3 +84,7 @@ Jest : Unit tests for the following JS methods:
 ##### Math.acos()
 
 ##### Math.log10()
+
+### ./Math./examples
+
+##### Degree To Radians
