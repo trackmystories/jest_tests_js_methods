@@ -23,11 +23,11 @@ run tests
 
 Jest : Unit tests for the following JS methods:
 
-**./Object.prototype**
+## ./Object.prototype
 
 Object.prototype.toString()
 
-**./Function.prototype**
+## ./Function.prototype
 
 Function.prototype.call()
 
@@ -35,7 +35,7 @@ Function.prototype.apply()
 
 Function.prototype.bind()
 
-**./Array.prototype**
+## ./Array.prototype
 
 Array.prototype.join()
 
@@ -61,7 +61,7 @@ Array.prototype.push()
 
 Array.prototype.forEach()
 
-**./Math**
+## ./Math
 
 Math.random()
 
@@ -85,6 +85,6 @@ Math.acos()
 
 Math.log10()
 
-**./Math./examples**
+## ./Math./examples
 
 Degree To Radians
