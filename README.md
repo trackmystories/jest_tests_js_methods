@@ -63,15 +63,23 @@ Jest : Unit tests for the following JS methods:
 
 **_./Math_**
 
+**_./Math/StaticMethods_**
+
 ##### Math.random()
-
-##### Math.PI
-
-##### Math.E
 
 ##### Math.abs()
 
 ##### Math.cos()
+
+##### Math.acos()
+
+##### Math.log10()
+
+**_./Math/StaticProperties_**
+
+##### Math.PI
+
+##### Math.E
 
 ##### Math.LN2
 
@@ -81,9 +89,7 @@ Jest : Unit tests for the following JS methods:
 
 ##### Math.SQRT1_2
 
-##### Math.acos()
-
-##### Math.log10()
+##### Math.SQRT12
 
 **_./Math./examples_**
 
