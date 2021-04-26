@@ -19,7 +19,7 @@
 
 ```
 
-<img src="./assets/screen2.png" width="750" alt="./assets/screen2.png">
+<img src="./assets/img.png" width="750" alt="./assets/img.png">
 
 Jest : Unit tests for the following JS methods:
 
