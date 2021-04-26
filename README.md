@@ -61,17 +61,26 @@ Array.prototype.push()
 
 Array.prototype.forEach()
 
-## ./Math
+
+## _./Math_
+
+## _./Math/StaticMethods_
 
 Math.random()
-
-Math.PI
-
-Math.E
 
 Math.abs()
 
 Math.cos()
+
+Math.acos()
+
+Math.log10()
+
+## _./Math/StaticProperties_
+
+Math.PI
+
+Math.E
 
 Math.LN2
 
@@ -81,10 +90,8 @@ Math.LOG10E
 
 Math.SQRT1_2
 
-Math.acos()
+Math.SQRT12
 
-Math.log10()
-
-## ./Math./examples
+## _./Math./examples
 
 Degree To Radians
