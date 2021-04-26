@@ -19,7 +19,7 @@
 
 ```
 
-<img src="./assets/screen.png" width="750" alt="./assets/screen.png">
+<img src="./assets/screen2.png" width="750" alt="./assets/screen2.png">
 
 Jest : Unit tests for the following JS methods:
 
@@ -64,5 +64,15 @@ Jest : Unit tests for the following JS methods:
 ##### Math.abs()
 
 ##### Math.cos()
+
+##### Math.LN2
+
+##### Math.LOG2E
+
+##### Math.LOG10E
+
+##### Math.SQRT1_2
+
+##### Math.acos()
 
 ##### Math.log10()
